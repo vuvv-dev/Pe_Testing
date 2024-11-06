@@ -28,6 +28,8 @@ public class TestFunctions {
         }
 
         return basicSalary + bonus - deduction;
+        //Vu Doi code
     }
+
 
 }
